@@ -121,7 +121,7 @@ export default Service.extend(Evented, {
    * @public
    * @type {Boolean}
    */
-  hideDefaultLauncher: false,
+  hideDefaultLauncher: true,
 
   /**
    * @private
